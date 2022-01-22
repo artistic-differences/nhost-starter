@@ -89,3 +89,4 @@ All local changes through the hasura console are tracked and create migrations f
 
 https://docs.nhost.io/platform/nhost/github-integration
 
+test first deploy
